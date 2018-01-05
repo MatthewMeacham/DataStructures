@@ -11,5 +11,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/mmeac/.p2/pool/plugins/org.junit.jupiter.params_5.0.0.v20170910-2246.jar" sourcepath="C:/Users/mmeac/.p2/pool/plugins/org.junit.jupiter.params.source_5.0.0.v20170910-2246.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://junit.org/junit5/docs/current/api/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
